@@ -1,6 +1,6 @@
 # Chicago Crime Analysis & Forecasting (2001–2022)
 
-This notebook (`Full_Chicago_Crime_organized.ipynb`) explores over two decades of Chicago crime data and builds time series forecasts to support a 6-month resource-allocation recommendation for law enforcement.
+This notebook explores over two decades of Chicago crime data and builds time series forecasts to support a 6-month resource-allocation recommendation for law enforcement.
 
 Every code cell is preceded by a short markdown explanation of what it does, so the notebook can be read top to bottom without running it.
 
