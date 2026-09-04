@@ -50,6 +50,29 @@ pmdarima
 ## Output
 The final section produces a 6-month-ahead forecast for Theft and Narcotics crime counts, along with the expected net and percent change over that period — intended to inform where Chicago law enforcement resources should be allocated going forward.
 
+# Chicago Crime Dashboard 2008
+
+An interactive Tableau dashboard exploring crime data in Chicago for 2008, including crime types, locations, timing patterns, and overall trends.
+
+## Dashboard Preview
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/09a7d232-bdcd-4459-ae48-263f649e2be2" />
+
+## Live Dashboard
+
+View the interactive dashboard on Tableau Public:
+
+[Chicago Crime Dashboard 2008 — Tableau Public](https://public.tableau.com/app/profile/rania.salem3243/viz/Book2_17884685984470/CrimeDetails?publish=yes)
+
+## About
+
+This project visualizes 2008 Chicago crime data, including:
+- Total crime counts
+- Top 10 crime types
+- Crimes by month
+- Crimes by hour
+- Top 10 crime locations
+
 
 
 
